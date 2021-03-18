@@ -56,8 +56,8 @@ custom elements to make it more game-like.
 
    To reset the wins and losses, press F5. Alternatively refresh your browser.
 
-   Good Luck Have Fun```
-   
+   Good Luck Have Fun
+```   
 ## Credits
 * [HyperionDev](https://www.hyperiondev.com/)
 * If you would like to leave any feedback and suggestions please feel free to contact me.
