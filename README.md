@@ -12,7 +12,8 @@ custom elements to make it more game-like.
 2. [Table of Contents](#table-of-contents)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Credits](#credits)
+5. [How to play](#how-to-play)
+6. [Credits](#credits)
 
 
 ## Installation
@@ -42,7 +43,21 @@ custom elements to make it more game-like.
 [![Visual Studio Code Example](https://i.postimg.cc/rw8DHMdz/Screenshot-from-2021-03-18-17-34-13.png)](https://postimg.cc/w7GxyKQd)
 * The images folder holds all the images used for this project.
 
+## How to play
+```Click the squares to reveal the hidden animals.
 
+   Match 2 of the same animals to lock them in.
+
+   You gain a loss if you incorrectly guess 8 times.
+
+   You gain a win if you correctly guess all the items.
+
+   To restart a game, press the "Restart Game" button.
+
+   To reset the wins and losses, press F5. Alternatively refresh your browser.
+
+   Good Luck Have Fun```
+   
 ## Credits
 * [HyperionDev](https://www.hyperiondev.com/)
 * If you would like to leave any feedback and suggestions please feel free to contact me.
