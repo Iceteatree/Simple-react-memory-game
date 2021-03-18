@@ -1,5 +1,6 @@
 # React Card Game
-### My 2nd capstone project from Hyperion Dev bootcamp. A Simple React Card Match game.
+### My 2nd capstone project from Hyperion Dev bootcamp.
+#### A Simple React Card Match game.
 
 ## Description
 A simple match the card game made using react.
