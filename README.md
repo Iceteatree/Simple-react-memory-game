@@ -1,5 +1,5 @@
 # React Card Game
-### My 2nd capstone project from Hyperion Dev bootcamp. An Simple React Card Match game.
+### My 2nd capstone project from Hyperion Dev bootcamp. A Simple React Card Match game.
 
 ## Description
 A simple match the card game made using react.
@@ -35,7 +35,7 @@ custom elements to make it more game-like.
 ## Usage
 
 ### If you are an end-user
-* Simply click this [link](serene-dubinsky-fa99d3.netlify.app/) to play 
+* Simply click this [link](https://serene-dubinsky-fa99d3.netlify.app/) to play 
 [![Game Example](https://i.postimg.cc/d3phXyyY/Screenshot-from-2021-03-18-17-42-33.png)](https://postimg.cc/ct71t6h9)
 ### If you would like to play with the code
 * Open any of the files you would like to edit in the code editor of your choice. Example. Visual Studio Code.
