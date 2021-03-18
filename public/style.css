@@ -1,0 +1,125 @@
+/* Styles for the whole project here */
+body {
+    width: 100%;
+    background-color: #fcf8e8;
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0.4em 0;
+    line-height: 1.2;
+}
+
+h4 {
+    margin: 0.2em 0;
+    line-height: 1.2;
+    letter-spacing: 0em;
+
+}
+
+h1 {
+    font-size: 2.2em;
+    color: #df7861;
+}
+
+
+p {
+    margin: 1.5em 0;
+    line-height: 1.4;
+    letter-spacing: -0.05em;
+    text-align: justify;
+}
+
+ul {
+    margin: 5px;
+    padding: 0;
+}
+
+/* Navbar section */
+.navbar {
+    display: inline-block;
+    justify-content: left;
+    position: relative;
+    top: -5rem;
+    text-align: center;
+    padding: 2rem;
+    margin: 0 auto;
+}
+
+.nav-item {
+    margin: 2rem;
+    font-size: 20px;
+    list-style-type: none;
+    color: black;
+}
+
+/* Instuctions on the left */
+.instruction {
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    margin-left: 10px;
+    color: black;
+}
+
+.restart-btn,
+.help-btn {
+    margin: 2rem auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.5rem;
+    font-size: larger;
+    border: 2px solid black;
+    color: black;
+    background: #d4e2d4;
+    border-radius: 8px;
+    font-weight: 400;
+}
+
+.restart-btn:hover,
+.help-btn:hover {
+    color: #df7861;
+    cursor: grab;
+}
+
+/* Container for board */
+.board {
+    display: inline-block;
+    margin: 1rem;
+    max-width: 60vw;
+    width: 60vw;
+    height: 50%;
+}
+
+footer {
+    text-align: center;
+    padding: 0.5rem;
+    background-color: #ecb390;    
+}
+
+/* Container for cards */
+.flip-container {
+    display: inline-block;
+    position: relative;
+    margin: 0.5rem;
+    border: 8px solid #ecb390;
+    background: #d4e2d4;
+}
+
+.flip-container:hover {
+    cursor: crosshair;
+}
+
+/* Flip the card styling */
+.flip-container.flipped .flipper {
+    transform: rotateY(180deg);
+}
+
+.flipper {
+    transition: 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+}
